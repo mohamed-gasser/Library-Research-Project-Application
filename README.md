@@ -21,5 +21,7 @@
   - Display all books unsorted, their ids, names and quantity (as entered) 
   
   After each operation, Ask the user if he wants to perform any additional operation
+  
   o If yes, let him choose another operation.
+  
   o If no, exit from the program
